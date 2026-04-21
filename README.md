@@ -1,8 +1,10 @@
 # 👩‍💻 Varvara Fadeeva — Technical Writing Portfolio
 
-Technical Writer with an engineering background, focused on creating clear, structured, and user-centered documentation for software products.
+Technical Writer with an engineering background specializing in creating clear, structured documentation for software products and APIs.
 
-Currently transitioning into IT technical writing, with a focus on API documentation, developer guides, and knowledge base content.
+I translate complex technical concepts into user-friendly content for both end users and developers.
+
+Currently building a portfolio focused on real-world documentation scenarios, including API documentation and help center systems.
 
 ---
 
