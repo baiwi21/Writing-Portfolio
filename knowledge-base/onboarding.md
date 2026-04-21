@@ -2,13 +2,13 @@
 
 ## Welcome to Task Manager
 
-This guide will help you get started.
+This guide helps new users get started quickly.
 
 ---
 
-## Step 1: Sign Up
+## Step 1: Create an Account
 
-Create an account using your email.
+Sign up using your email and password.
 
 ---
 
@@ -18,13 +18,16 @@ Click **New Task** and enter a title.
 
 ---
 
-## Step 3: Organize Tasks
+## Step 3: Manage Your Tasks
 
-Edit, complete, or delete tasks as needed.
+* Edit tasks
+* Mark tasks as completed
+* Delete tasks
 
 ---
 
-## Tips
+## Best Practices
 
-* Keep task titles short
-* Use descriptions for details
+* Use clear task titles
+* Add descriptions for complex tasks
+* Regularly update task status
