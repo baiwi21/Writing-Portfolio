@@ -20,15 +20,14 @@ Currently building a portfolio focused on real-world documentation scenarios, in
 
 ## 📂 Portfolio Projects
 
-### 🟢 Task Manager — User Documentation
+### 🟢 Product Context
 
-User guide for a web-based task management application.
+Task Manager is a conceptual SaaS product used to demonstrate documentation practices for web applications.
 
-Includes:
-
-* Getting started instructions
-* Task management workflows
-* End-user scenarios
+The documentation simulates real-world scenarios including:
+- End-user guides
+- Developer API documentation
+- Help center content
 
 👉 [View User Guide](./task-manager/user-guide.md)
 
