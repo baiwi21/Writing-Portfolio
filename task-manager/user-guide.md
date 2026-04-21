@@ -30,6 +30,11 @@ The application includes:
 
 ___
 
+## Interface Overview
+<img width="1536" height="1024" alt="ChatGPT Image 21 апр  2026 г , 17_20_56" src="https://github.com/user-attachments/assets/ff3ebceb-ef57-4148-9d7b-6b8e41dd3a47" />
+
+___
+
 ## Getting Started
 
 ### Create an Account
