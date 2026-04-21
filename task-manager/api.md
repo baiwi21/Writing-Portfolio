@@ -2,7 +2,9 @@
 
 ## Overview
 
-This API allows developers to interact with the Task Manager system.
+The Task Manager API allows developers to interact with the task management system programmatically.
+
+It supports creating, retrieving, updating, and deleting tasks.
 
 ---
 
@@ -16,7 +18,7 @@ https://api.taskmanager.com
 
 ## Authentication
 
-All requests require an API key.
+All requests require an API key passed in the header:
 
 ```
 Authorization: Bearer YOUR_API_KEY
@@ -28,13 +30,20 @@ Authorization: Bearer YOUR_API_KEY
 
 ### Get All Tasks
 
-**Request:**
+**Request**
 
 ```
 GET /tasks
 ```
 
-**Response:**
+**Example (cURL)**
+
+```
+curl -X GET https://api.taskmanager.com/tasks \
+  -H "Authorization: Bearer YOUR_API_KEY"
+```
+
+**Response**
 
 ```json
 [
@@ -50,27 +59,27 @@ GET /tasks
 
 ### Create Task
 
-**Request:**
+**Request**
 
 ```
 POST /tasks
 ```
 
-**Body:**
+**Body**
 
 ```json
 {
-  "title": "Learn API documentation",
+  "title": "Write documentation",
   "completed": false
 }
 ```
 
-**Response:**
+**Response**
 
 ```json
 {
   "id": 2,
-  "title": "Learn API documentation",
+  "title": "Write documentation",
   "completed": false
 }
 ```
@@ -79,13 +88,13 @@ POST /tasks
 
 ### Update Task
 
-**Request:**
+**Request**
 
 ```
 PUT /tasks/{id}
 ```
 
-**Body:**
+**Body**
 
 ```json
 {
@@ -97,7 +106,7 @@ PUT /tasks/{id}
 
 ### Delete Task
 
-**Request:**
+**Request**
 
 ```
 DELETE /tasks/{id}
@@ -112,3 +121,14 @@ DELETE /tasks/{id}
 * 400 — Bad Request
 * 401 — Unauthorized
 * 404 — Not Found
+
+---
+
+## Error Example
+
+```json
+{
+  "error": "Unauthorized",
+  "message": "Invalid API key"
+}
+```
