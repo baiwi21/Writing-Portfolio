@@ -1,48 +1,67 @@
 # 👩‍💻 Varvara Fadeeva — Technical Writing Portfolio
 
-Technical Writer with an engineering background, focused on creating clear, structured, and user-friendly documentation for software products.
+Technical Writer with an engineering background, focused on creating clear, structured, and user-centered documentation for software products.
 
-Currently transitioning into IT technical writing and building developer-focused documentation, including API docs and knowledge base content.
+Currently transitioning into IT technical writing, with a focus on API documentation, developer guides, and knowledge base content.
 
 ---
 
-## 🔧 Skills
+## 🔧 Core Skills
 
-* Technical Documentation
+* Technical Documentation (User Guides, Specifications)
 * API Documentation (REST, JSON)
-* User Guides & Knowledge Base
-* Markdown, Git
+* Knowledge Base & Help Center Content
+* Requirements Analysis & Structuring
+* Markdown & Git workflows
 
 ---
 
 ## 📂 Portfolio Projects
 
-### 🟢 Task Manager — User Guide
+### 🟢 Task Manager — User Documentation
 
-User documentation for a web-based task management application.
-Covers setup, core features, and user workflows.
+User guide for a web-based task management application.
+
+Includes:
+
+* Getting started instructions
+* Task management workflows
+* End-user scenarios
 
 👉 [View User Guide](./task-manager/user-guide.md)
 
 ---
 
-### 🔵 Task Manager API Documentation
+### 🔵 Task Manager API — Developer Documentation
 
-REST API documentation with endpoints, request/response examples, and JSON samples.
+REST API documentation designed for developers.
+
+Includes:
+
+* Endpoint descriptions
+* Request/response examples
+* JSON samples
+* HTTP status handling
 
 👉 [View API Documentation](./task-manager/api.md)
 
 ---
 
-### 🟡 Knowledge Base Articles
+### 🟡 Knowledge Base
 
-Help center content including FAQ, onboarding, and troubleshooting guides.
+Help center documentation simulating real product support content.
+
+Includes:
+
+* FAQ
+* Troubleshooting
+* Onboarding guide
 
 👉 [View Knowledge Base](./knowledge-base/)
 
 ---
 
-## 🛠 Tools
+## 🛠 Tools & Technologies
 
 Markdown | Git | Draw.io | MS Word
 
@@ -51,4 +70,4 @@ Markdown | Git | Draw.io | MS Word
 ## 📬 Contact
 
 Email: baiwi2145@gmail.com
-Location: Armenia (Open to remote work)
+Location: Armenia (Open to remote work worldwide)
