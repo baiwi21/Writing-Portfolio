@@ -8,6 +8,16 @@ Currently building a portfolio focused on real-world documentation scenarios, in
 
 ---
 
+## What I Do
+
+I create structured, user-friendly documentation that helps:
+- Users understand and use products efficiently
+- Developers integrate and work with APIs
+
+I focus on clarity, usability, and real-world documentation scenarios.
+
+---
+
 ## 🔧 Core Skills
 
 * Technical Documentation (User Guides, Specifications)
@@ -22,12 +32,14 @@ Currently building a portfolio focused on real-world documentation scenarios, in
 
 ### 🟢 Product Context
 
-Task Manager is a conceptual SaaS product used to demonstrate documentation practices for web applications.
+Task Manager is a conceptual SaaS application designed to simulate real-world documentation scenarios.
 
-The documentation simulates real-world scenarios including:
-- End-user guides
+This project demonstrates:
+- End-user documentation
 - Developer API documentation
 - Help center content
+
+The goal is to reflect documentation practices used in production environments.
 
 👉 [View User Guide](./task-manager/user-guide.md)
 
