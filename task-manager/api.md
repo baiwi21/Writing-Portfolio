@@ -118,8 +118,8 @@ DELETE /tasks/{id}
 
 | Code | Description |
 |------|------------|
-| 401 | Missing or invalid API key |
-| 404 | Resource not found |
+| 401 | Invalid API key |
+| 404 | Task not found |
 
 ---
 
@@ -130,7 +130,9 @@ DELETE /tasks/{id}
 
 | Parameter | Type | Description |
 |----------|------|------------|
-| completed | boolean | Filter tasks by completion status |
+| completed | boolean | Filter tasks by  status |
+
+GET /tasks?completed=true
 
 ```json
 {
