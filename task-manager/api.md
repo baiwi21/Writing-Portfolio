@@ -114,17 +114,23 @@ DELETE /tasks/{id}
 
 ---
 
-## Status Codes
+## Common Errors
 
-* 200 — Success
-* 201 — Created
-* 400 — Bad Request
-* 401 — Unauthorized
-* 404 — Not Found
+| Code | Description |
+|------|------------|
+| 401 | Missing or invalid API key |
+| 404 | Resource not found |
 
 ---
 
 ## Error Example
+
+---
+### Query Parameters
+
+| Parameter | Type | Description |
+|----------|------|------------|
+| completed | boolean | Filter tasks by completion status |
 
 ```json
 {
