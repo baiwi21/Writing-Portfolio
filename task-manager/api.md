@@ -130,7 +130,7 @@ DELETE /tasks/{id}
 
 | Parameter | Type | Description |
 |----------|------|------------|
-| completed | boolean | Filter tasks by  status |
+| completed | boolean | Filter tasks by completion status |
 
 GET /tasks?completed=true
 
