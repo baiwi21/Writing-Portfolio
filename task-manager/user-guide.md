@@ -64,6 +64,16 @@ This guide explains how to use the main features of the application.
 3. Updates task details
 4. Marks task as completed
 
+## Use Cases
+- Managing daily tasks
+- Tracking progress
+- Organizing workflows
+
+The application interface includes:
+- Task list panel
+- Task creation form
+- Status indicators
+
 ---
 
 ## Notes
