@@ -2,25 +2,25 @@
 
 ## Cannot Log In
 
-**Possible causes:**
+**Possible causes**
 
-* Incorrect password
+* Incorrect email or password
 * Account not registered
 
-**Solution:**
+**Solution**
 
 * Reset your password
-* Check your email and try again
+* Verify your credentials
 
 ---
 
 ## Tasks Not Saving
 
-**Possible causes:**
+**Possible causes**
 
-* Internet connection issues
+* Unstable internet connection
 
-**Solution:**
+**Solution**
 
 * Refresh the page
 * Check your connection
@@ -29,8 +29,8 @@
 
 ## Application Not Loading
 
-**Solution:**
+**Solution**
 
 * Clear browser cache
-* Try another browser
-
+* Try a different browser
+* Disable browser extensions
