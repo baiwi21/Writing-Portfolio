@@ -2,13 +2,13 @@
 
 ## What is Task Manager?
 
-Task Manager is a tool for organizing and tracking tasks.
+Task Manager is a web-based application for organizing and tracking tasks.
 
 ---
 
 ## Do I need an account?
 
-Yes, you must create an account to use the application.
+Yes, users must create an account to access the system.
 
 ---
 
@@ -18,7 +18,12 @@ Yes, tasks can be edited at any time.
 
 ---
 
-## Is my data saved automatically?
+## Is data saved automatically?
 
-Yes, all changes are saved instantly.
+Yes, all changes are saved in real time.
 
+---
+
+## Can I delete tasks?
+
+Yes, tasks can be permanently deleted.
