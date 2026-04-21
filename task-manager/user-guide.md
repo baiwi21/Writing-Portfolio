@@ -2,7 +2,16 @@
 
 ## Overview
 
-Task Manager is a web-based application designed to help users create, manage, and track daily tasks.
+Task Manager is a web-based productivity application designed to help users organize, track, and manage daily tasks.
+
+This guide explains how to use the main features of the application.
+
+---
+
+## Target Audience
+
+* Individual users managing daily activities
+* Small teams tracking tasks and progress
 
 ---
 
@@ -17,44 +26,47 @@ Task Manager is a web-based application designed to help users create, manage, a
 
 ---
 
-## Creating a Task
+## Core Features
+
+### Create a Task
 
 1. Click **New Task**
 2. Enter a task title
-3. (Optional) Add a description
+3. Add a description (optional)
 4. Click **Save**
 
 ---
 
-## Managing Tasks
+### Edit a Task
+
+1. Select a task from the list
+2. Update the title or description
+3. Click **Save**
+
+---
 
 ### Mark Task as Completed
 
 * Click the checkbox next to the task
 
-### Edit Task
+---
 
-* Click the task title
-* Update the information
-* Click **Save**
-
-### Delete Task
+### Delete a Task
 
 * Click the delete icon next to the task
 
 ---
 
-## User Flow Example
+## User Workflow Example
 
-1. User logs in
-2. Creates a task
-3. Updates task status
-4. Completes task
+1. User logs into the system
+2. Creates a new task
+3. Updates task details
+4. Marks task as completed
 
 ---
 
 ## Notes
 
-* All changes are saved automatically
-* Tasks can be edited at any time
-
+* Changes are saved automatically
+* Tasks can be modified at any time
